@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Rasha Malek
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rashamalek)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **rashamalek/rashamalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
